@@ -1,4 +1,4 @@
-# 🛒 E-Commerce Recommender System V2
+# 🛒 E-Commerce Recommendation System
 
 An end-to-end Machine Learning Recommender System built with Python, Scikit-Learn, and Gradio. This project uses NLP-based Collaborative Filtering to analyze an e-commerce transaction dataset and generate personalized product recommendations based on lookalike audiences.
 
